@@ -3085,6 +3085,7 @@ input, select, textarea {
 		top: 0;
 		width: 100%;
 		z-index: 10000;
+		background-color: #2e3141;
 	}
 
 		#header h1 {
@@ -3095,7 +3096,7 @@ input, select, textarea {
 			border-bottom: 0;
 			font-size: 0.8em;
 			margin-bottom: 0;
-			/*opacity: 1;*/
+			opacity: 1;
 			visibility: visible;
 		}
 
